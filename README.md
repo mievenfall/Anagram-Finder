@@ -60,9 +60,8 @@ Anagram Sets:
 ├── output
 │   └── SampleOutput.txt
 ├── prompt
-│   ├── Prog1 example.pdf
-│   ├── grade1.pdf
-│   └── prog1.pdf
+│   ├── grade2.pdf
+│   └── prog2.pdf
 ├── src
 │   ├── AnagramFinder.java
 │   └── Prog2.java
